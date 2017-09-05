@@ -2,7 +2,7 @@
  * *******************************************
  * Author	: Rutvij Mehta
  * Email	: rmehta4@ncsu.edu
- * Program	: GumGum internship assignment
+ * Program	: assignment
  * Stack	: Scala,Apache Spark
  * *******************************************
  */
